@@ -1,0 +1,8 @@
+{
+    "dependencies": [
+        {
+            "cmsis-toolbox": "https://example.zip",
+            "clangd": "https://example.zip"
+        }
+    ]
+}
